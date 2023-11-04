@@ -55,5 +55,3 @@ Experienced data analyst with a passion for creating efficient and elegant solut
 ## Languages
 - English (Fluent)
 - Bengali (Native)
-
-Feel free to customize this template with your own information, and add or remove sections as needed. Markdown is a great choice for creating a clean and organized resume for your GitHub README.md.
